@@ -25,9 +25,9 @@ There are two main programs:
 4. The server is now up and running.
 
 ### The Client
-1. Run the ```client.py```
+1. Run the ```gui.py```
     ```cmd
-    $ python server.py
+    $ python gui.py
     ```
 2. Enter the server ip address. 
 3. Select your nickname. (This will be displayed to everyone in the chat.)
